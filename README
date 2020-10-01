@@ -1,2 +1,3 @@
 Here's the code for the blog post "MySQL and CSV to Python Objects (Made Easy)" on eng.kaching.com
 
+It uses Python libraries such as: urllib2, os and csv
